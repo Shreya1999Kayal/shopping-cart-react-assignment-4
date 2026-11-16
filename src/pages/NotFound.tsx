@@ -1,0 +1,7 @@
+const NotFound = () => {
+  return (
+    <div>404 error NotFound</div>
+  )
+}
+
+export default NotFound
